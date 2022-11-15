@@ -2,7 +2,7 @@
 **Helmchart Installation Guilde**
 
 *Install Helm (Centos)*
-  - wget https://get.helm.sh/helm-v3.3.2-linux-amd64.tar.gz
+  - wget https://get.helm.sh/helm-v3.3.2-linux-amd64.tar.gz or select desire version here https://github.com/helm/helm/releases
   - tar -zxvf helm-v3.3.2-linux-amd64.tar.gz
   - sudo mv linux-amd64/helm /usr/local/bin/helm
 
